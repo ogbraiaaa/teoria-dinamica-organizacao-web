@@ -1,3 +1,4 @@
+FONTE: GEMINI
 ## **Atividade 2: Analisando a Validação de Formulários com JavaScript**
 
 A validação de formulários com JavaScript no lado do cliente é um processo crucial para garantir a qualidade dos dados enviados ao servidor, melhorar a experiência do usuário e reduzir a carga no servidor ao identificar erros de entrada antes do envio. Ela envolve a captura dos dados inseridos nos campos do formulário e a verificação desses dados em relação a critérios específicos definidos pelo desenvolvedor.
