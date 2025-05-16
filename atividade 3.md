@@ -1,3 +1,4 @@
+FONTE: GEMINI
 ## **Atividade 3: Detalhando a Arquitetura Cliente-Servidor na Web**
 
 A arquitetura cliente-servidor é o modelo fundamental que sustenta a comunicação na World Wide Web. Quando um usuário acessa uma página web através de um navegador, uma série de eventos orquestrados entre o navegador (o cliente) e um servidor remoto na internet ocorrem para que o conteúdo da página seja exibido. Vamos detalhar o papel de cada um e o fluxo desses eventos.
