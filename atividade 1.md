@@ -1,3 +1,4 @@
+FONTE: GEMINI
 ## **Atividade 1: Descrevendo Efeitos Visuais com JavaScript**
 
 O JavaScript desempenha um papel fundamental na criação de efeitos visuais dinâmicos e interativos em páginas web, elevando a experiência do usuário muito além de um conteúdo estático. Sua capacidade de manipular o Document Object Model (DOM) em tempo real permite alterar estilos, posicionamentos e até mesmo o conteúdo dos elementos HTML, resultando em efeitos visuais atraentes e responsivos.
